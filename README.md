@@ -9,13 +9,6 @@ Este proyecto implementa un modelo de Machine Learning para predecir la ocurrenc
 - **Dashboard Interactivo:** Una interfaz de usuario simple creada con Streamlit para visualizar la evolución de casos y las predicciones del modelo por departamento.
 - **Entorno Reproducible:** Gestionado con `pyenv` y un archivo `requirements.txt` para facilitar la instalación.
 
-## Demo
-
-*(Aquí puedes añadir un GIF o una captura de pantalla de tu aplicación Streamlit en funcionamiento)*
-
-![Streamlit App Screenshot](https://i.imgur.com/your_screenshot.png)
-
----
 
 ## Configuración y Ejecución
 
@@ -57,7 +50,11 @@ pip install -r requirements.txt
 
 **IMPORTANTE:** El conjunto de datos no está incluido en este repositorio debido a su tamaño.
 
-1.  **Descarga el dataset:** (Si tienes un enlace público, ponlo aquí. Si no, explica de dónde obtenerlo). Por ahora, se asume que tienes el archivo.
+1.  **Descarga el dataset:** 
+    ```bash
+    https://drive.google.com/file/d/1k9hflOIzhvW1GPITWpsTNOstc3tcSJKk/view?usp=drive_link
+    ```
+
 2.  **Crea la carpeta `data`:**
     ```bash
     mkdir -p data
