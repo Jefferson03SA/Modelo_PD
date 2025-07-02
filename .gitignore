@@ -1,0 +1,23 @@
+# Entornos virtuales
+venv/
+*.venv
+env/
+.env
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de sistema operativo
+.DS_Store
+
+# Archivos de IDEs
+.idea/
+.vscode/
+*.swp
+
+# Archivos generados y datos grandes (NO SUBIR A GIT)
+models/
+data/
